@@ -1,3 +1,7 @@
 # turbo-garbanzo
 
-Categorical Data
+
+Machine Learning
+
+
+One Hot Encoding with Categorical Data
