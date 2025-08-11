@@ -4,4 +4,4 @@
 Machine Learning
 
 
-One Hot Encoding with Categorical Data
+One Hot Encoding with Categorical Data 
